@@ -1,0 +1,11 @@
+{
+  "name": "tphp/lib_rt",
+  "version": "0.1.0",
+  "type": "lib",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Tphp\\Lib_rt\\": "src/"
+    }
+  }
+}
